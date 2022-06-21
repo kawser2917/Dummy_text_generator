@@ -1,0 +1,15 @@
+#btn{
+   
+    position: absolute;
+    top: 20%;
+    left: 50%;
+}
+
+p{
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    font-style: italic;
+    position: absolute;
+    top: 30%;
+
+}
